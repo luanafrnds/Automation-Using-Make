@@ -59,6 +59,7 @@ The automation sends a structured, personalized email with:
 - Fraud prevention instructions
 - Embedded e-mail signature hosted on DropBox
 
+---
 
 ### 🧩 Technologies Used:
 - Make.com: Core workflow automation platform
@@ -67,6 +68,8 @@ The automation sends a structured, personalized email with:
 - Outlook Email API:	Automated email sending
 - HTML:	Email formatting
 - Conditional Logic:	Dynamic attachment + content generation
+
+---
 
 ### 📈 Business Impact:
 This automation reduces manual work by:
@@ -83,8 +86,9 @@ This automation reduces manual work by:
 
  It transforms a time-consuming, error-prone workflow into a fully automated process.
 
-### 🛡️ Data Privacy
+---
 
+### 🛡️ Data Privacy
 All data used in this repository is anonymized.
 No real client names, internal IDs, or confidential documents are stored here.
 
