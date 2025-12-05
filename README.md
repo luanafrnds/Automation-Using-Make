@@ -1,2 +1,3 @@
-# Automation-Using-Make
-A real-world automation built using Make.com to streamline operational workflows. This project integrates Excel, OneDrive, Outlook, and conditional logic to send dynamic emails with attachments, detect billing discrepancies, and automate repetitive tasks. Includes routing, variable mapping, and error handling.
+# Automation Using Make
+Real-world business automation developed in Make.com to reduce manual work. The workflow reads structured data from Excel, searches and downloads files from OneDrive based on dynamic queries, and sends customized emails with conditional attachments and logic.
+
